@@ -1,0 +1,9 @@
+VLC Executable: C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+Input Directory: I:\Movies and Shows\Futurama
+Filter: 
+Number of Instances: 6
+Time (seconds): 300
+isRecursive: 1
+isShowDesktop: 1
+Default Browsing Directory: I:\Movies and Shows
+
